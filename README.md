@@ -143,7 +143,4 @@ excel-sales-dashboard/
 │   └── Sales_Dashboard.xlsx
 │
 ├── Preview/
-│   └── dashboard.png
-│
-└── Documentation/
-    └── Dashboard_Questions.png
+    └── dashboard.png
